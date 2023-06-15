@@ -4,4 +4,6 @@ It has blue
 Yellow
 Green
 Puple 
+Pink
+
 colors
